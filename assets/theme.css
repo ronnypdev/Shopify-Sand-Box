@@ -9122,3 +9122,9 @@ hr {
   font-size: smaller;
   font-weight: 600;
 }
+
+.product-form__item--checkbox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
